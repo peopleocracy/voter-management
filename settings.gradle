@@ -1,2 +1,2 @@
 
-include "my-lib", "product"
+include "voter-db", "voter-model", "voter-rest-api"
