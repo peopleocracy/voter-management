@@ -1,0 +1,9 @@
+jar {
+    manifest {
+        attributes 'Implementation-Title': 'Voter Management Logic Engine', 'Implementation-Version': version
+    }
+}
+
+dependencies {
+    compile group: 'org.peopleocracy', name: 'voter-db', version: version
+}
