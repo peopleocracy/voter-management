@@ -1,2 +1,2 @@
 
-include "voter-db", "voter-model", "voter-rest-api", "voter-logic"
+include "voter-db", "voter-rest-api", "voter-logic"

@@ -6,6 +6,9 @@ jar {
 }
 
 dependencies {
-
+    compile group: 'org.peopleocracy', name: 'voter-logic', version: version
+    compile 'com.sun.jersey:jersey-server:1.13'
+    compile 'com.sun.jersey:jersey-core:1.13'
+    compile 'com.sun.jersey:jersey-servlet:1.13'
 }
 
