@@ -17,7 +17,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>0</id>
+			<id>1426954010669</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
@@ -25,11 +25,15 @@
 				<arguments>
 					<matcher>
 						<id>org.eclipse.ui.ide.multiFilter</id>
-						<arguments>1.0-projectRelativePath-equals-true-false-product</arguments>
+						<arguments>1.0-projectRelativePath-equals-true-false-voter-db</arguments>
 					</matcher>
 					<matcher>
 						<id>org.eclipse.ui.ide.multiFilter</id>
-						<arguments>1.0-projectRelativePath-equals-true-false-my-lib</arguments>
+						<arguments>1.0-projectRelativePath-equals-true-false-voter-rest-api</arguments>
+					</matcher>
+					<matcher>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+						<arguments>1.0-projectRelativePath-equals-true-false-voter-logic</arguments>
 					</matcher>
 				</arguments>
 			</matcher>
